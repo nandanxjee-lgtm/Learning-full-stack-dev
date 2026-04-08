@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sign Up</title>
+</head>
+
+<body>
+
+<center>
+    <img src="https://www.google.com/imgres?q=sign%20up&imgurl=https%3A%2F%2Ft4.ftcdn.net%2Fjpg%2F02%2F95%2F33%2F63%2F360_F_295336394_tZtNFhp47hyjJPFhBliLNjKyQnuOReOB.jpg&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dsign%2Bup%2Bbutton&docid=HBiPgD6bL-OD4M&tbnid=on4slIXp6a3jrM&vet=12ahUKEwjnhdjDyt6TAxXPbmwGHZNrEzUQnPAOegQILxAB..i&w=675&h=360&hcb=2&ved=2ahUKEwjnhdjDyt6TAxXPbmwGHZNrEzUQnPAOegQILxAB" height="50px" width="50px">
+
+    <br><br><br>
+
+    <p><b>Email / Phone:</b></p>
+    <input type="text" placeholder="Email / Phone">
+
+    <br><br>
+
+    <p><b>Password:</b></p>
+    <input type="password" placeholder="Enter Password">
+
+    <br><br>
+
+    <input type="submit" value="Login">
+
+    <br><br><br>
+
+    <p>OR log in with</p>
+
+    <br><br>
+
+    <a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/help/ipreporting/report/copyright&ved=2ahUKEwjggcS9y96TAxWZSGcHHZqsEssQjBB6BAgPEAM&sqi=2&usg=AOvVaw0rz85n-6cENyx1rdJ4Ys3S" target="_main">
+        <img src="https://www.google.com/imgres?q=facebook&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F0%2F06%2FFacebook.svg%2F3840px-Facebook.svg.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AFacebook.svg&docid=_JikCmjJ_KHN-M&tbnid=Ovd7FMVJGq-fBM&vet=12ahUKEwj17cb6yt6TAxU61DgGHYveBYkQnPAOegQIQBAB..i&w=3840&h=1444&hcb=2&ved=2ahUKEwj17cb6yt6TAxU61DgGHYveBYkQnPAOegQIQBAB" alt="Facebook" height="40px">
+    </a>
+
+    <br><br>
+
+    <a href="https://accounts.google.com/InteractiveLogin?emr=1&ltmpl=default&nojavascript=1&rm=false&service=mail&ss=1"target="_main">
+        <img src="https://www.google.com/imgres?q=gmail&imgurl=https%3A%2F%2Fwww.starmark.com%2Fwp-content%2Fuploads%2Fgmail-logo-2.png&imgrefurl=https%3A%2F%2Fwww.starmark.com%2Fblog%2Fetips%2Fgmail-enables-images-by-default%2F&docid=7BnxVNiwaM-sMM&tbnid=Ys2P2Q-fFyD0qM&vet=12ahUKEwiEvP6Jy96TAxXN1DgGHUerIYwQnPAOegQIQhAB..i&w=600&h=330&hcb=2&ved=2ahUKEwiEvP6Jy96TAxXN1DgGHUerIYwQnPAOegQIQhAB" alt="Gmail" height="40px">
+    </a>
+
+</center>
+
+</body>
+</html>
